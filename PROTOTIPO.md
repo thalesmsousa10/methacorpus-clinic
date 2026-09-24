@@ -61,4 +61,16 @@ Implementação de melhorias autônomas de infraestrutura, compartilhamento e us
 - **Chips de Traçado de Rotas (Maps & Waze):** Adição de botões táteis no Card do Consultório em Araxá com links diretos para início de navegação por GPS no Google Maps (`destination=Rua+Almeida+Campos,+336`) e no Waze (`navigate=yes`), além de tags de segurança na Telemedicina (*Videochamada Privativa* e *Receita ICP-Brasil*).
 - **Verificação Técnica Playwright:** 0 erros de console, 0 advertências; teste de largura em desktop (1440px, scrollWidth: 1425px) e mobile (390px, scrollWidth: 375px); requisições de assets validadas com status HTTP 200 OK.
 
+## Sétima rodada — Alinhamento de Posicionamento Clínico (Dr. Mateus) — 24/09/2026
+
+Implementação dos ajustes cirúrgicos alinhados diretamente com o Dr. Mateus Camargos:
+- **Atualização do Registro Profissional Oficial:** Retificação de todo o material e metadados para **CRM-MG 88.462** (substituindo o número provisório anterior).
+- **Enxugamento do Catálogo de Cuidados:** Remoção integral dos produtos de procedimentos em consultório (*Estética Avançada* e *PEIM · Microvasos*), mantendo o foco exclusivo em *Emagrecimento Saudável*, *Hipertrofia e Composição Corporal*, *Reposição Hormonal* e *Medicina Esportiva*.
+- **Transição para Telemedicina Exclusiva:** Devido à mudança de cidade do Dr. Mateus e ausência de consultório físico no momento, todos os pontos de contato, cabeçalho, FAQ, cards e rotas presenciais em Araxá foram removidos e convertidos para um ecossistema de teleconsulta de alta sofisticação com:
+  - Videochamadas privativas estendidas (1h+ de consulta dedicada).
+  - Emissão oficial de receitas médicas e solicitações de exames com certificação digital ICP-Brasil aceitas em todo o território nacional.
+  - Acompanhamento contínuo e canal de suporte direto entre as consultas.
+- **Mensageria Contextual do WhatsApp:** Atualização dos disparos no WhatsApp para direcionamento imediato de consultas online por telemedicina com o Dr. Mateus.
+
+
 

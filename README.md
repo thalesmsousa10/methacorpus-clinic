@@ -1,8 +1,8 @@
 # METHA Corpus Clinic — Website Oficial & Prévia Clínica
 
-> **Dr. Mateus Camargos (CRM-MG 91.309)**  
+> **Dr. Mateus Camargos (CRM-MG 88.462)**  
 > Medicina Integrativa, Emagrecimento, Modulação Hormonal e Longevidade.  
-> Consultório Privativo em Araxá/MG & Telemedicina para todo o Brasil.
+> Telemedicina Exclusiva para todo o Brasil e Exterior.
 
 ---
 
@@ -16,10 +16,9 @@ O site está publicado e acessível publicamente pelo link oficial do GitHub Pag
 ## 💎 Destaques da Estrutura
 
 - **Design de Alto Luxo & Autoridade:** Tipografia editorial (*Cormorant Garamond* + *Manrope*), paleta mineral dourada sobre fundo escuro nobre.
-- **Estratégia de Dupla Conversão:** Caminhos claros e dedicados para atendimento presencial em Araxá e telemedicina nacional com receitas digitais ICP-Brasil.
+- **Telemedicina Exclusiva de Alto Padrão:** Consultas individuais estendidas (1h+) por videochamada segura, acompanhamento contínuo e receitas digitais ICP-Brasil com validade nacional.
 - **Motion Orbital do Método:** Animação com GSAP ScrollTrigger dos anéis concêntricos que acompanham as 6 etapas do cuidado.
 - **Prévia Social Rica (Open Graph):** Card automático de luxo ao compartilhar o link no WhatsApp, Instagram, Telegram ou iMessage.
-- **Navegação GPS Integrada:** Chips diretos para traçado de rotas pelo Google Maps e Waze até a clínica em Araxá.
 - **Performance de Ponta:** Imagens otimizadas em WebP com preloading prioritário e nota máxima nos Core Web Vitals.
 
 ---
