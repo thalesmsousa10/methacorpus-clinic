@@ -72,5 +72,51 @@ Implementação dos ajustes cirúrgicos alinhados diretamente com o Dr. Mateus C
   - Acompanhamento contínuo e canal de suporte direto entre as consultas.
 - **Mensageria Contextual do WhatsApp:** Atualização dos disparos no WhatsApp para direcionamento imediato de consultas online por telemedicina com o Dr. Mateus.
 
+## Oitava rodada — A Virada Clínica e Metodológica (Playbook Dr. Mateus Camargos) — 26/09/2026
+
+Análise clínica profunda do Playbook oficial da METHA Corpus Clinic e reestruturação radical da copy e das propostas com a nova tese de cuidado médico:
+- **Tese do Acordo Oculto:** O excesso de peso deixa de ser tratado como desvio comportamental ou falta de foco e passa a ser posicionado como uma solução adaptativa inconsciente que o corpo encontrou para proteger a mente de feridas emocionais.
+- **As 3 Funções Biológicas do Excesso de Peso:**
+  - *Função 01 (Blindagem/Proteção):* O corpo retém gordura como armadura contra vulnerabilidade, julgamento e invasão.
+  - *Função 02 (Sobrecarga/Força):* O corpo ganha densidade para carregar tudo e todos sozinho sem desmoronar.
+  - *Função 03 (Afeto/Preenchimento):* O corpo busca volume para não passar invisível e compensa a solidão na comida.
+- **Metodologia dos Dois Cardápios (`#cardapios`):**
+  - *Cardápio Alimentar & Metabólico (No Prato):* Manejo farmacológico criterioso (tirzepatida/Mounjaro), otimização laboratorial/tireoide/insulina e preservação de massa magra.
+  - *Cardápio Emocional & Comportamental (Ao Redor do Prato):* Desmonte da armadura, protocolos de descarga de sobrecarga e reconfiguração de vínculos para extinguir o efeito sanfona na raiz.
+- **Compliance com Diretrizes Éticas do CFM:**
+  - Sem promessas de prazo ("emagreça X kg em Y dias").
+  - Sem nomes jargões internos de traços de caráter (oral, masoquista, etc.).
+  - Sem citações a terceiros (Elton Euler / OCE).
+- **Criação da Proposta Dark Luxury (`proposta.html`):**
+  - Hero com headline: *"Seu corpo não é o problema. Ele é a resposta."*
+  - Reversão das especialidades para o accordion interativo WAAPI com contadores e animações de 320ms.
+  - Redução visual do título de contato para `clamp(36px, 4.2vw, 62px)`.
+- **Criação da Proposta Light Linen (`proposta-light.html`):**
+  - Paleta nobre em linho suave (`#f8f6f0`), cards alvos (`#ffffff`) com bordas em ouro bronze (`rgba(150, 117, 59, 0.22)`) e tipografia de alto contraste em grafite escuro (`#191c18`).
+  - Fusão contínua da fotografia do Dr. Mateus com o fundo claro em desktop e mobile.
+- **Alternador de Temas Instantâneo no Cabeçalho:**
+  - Botão pílula no menu: `☀️ Versão Clara` no tema escuro e `🌙 Versão Escura` no tema claro, permitindo alternância instantânea com 1 clique no celular ou computador.
+- **Mensagens Dinâmicas de WhatsApp:**
+  - Integração via JS para direcionar contatos para *"consulta para Leitura Corporal e avaliação médica com o Dr. Mateus"*, com contexto dinâmico por serviço.
+- **Preservação de `index.html`:** O arquivo de produção original permaneceu 100% intocado durante toda a validação.
+
+## Nona rodada — Redesenho de Identidade Visual, Open Graph e Favicons — 27/09/2026
+
+Substituição da imagem de compartilhamento em redes sociais e redesenho de alta fidelidade dos favicons:
+- **Novo Open Graph Card Oficial (`assets/images/og-preview.jpg` e `assets/images/og-preview.png`):**
+  - Dimensão padrão internacional de 1200 × 630 px (proporção 1.91:1).
+  - Eliminação da prévia antiga (que era uma cópia duplicada e truncada do Hero).
+  - Novo design institucional: fundo escuro com halo dourado, moldura de alta joalheria com cantos clássicos, monograma oficial da METHA Corpus em degradê ouro líquido reluzente, tipografia imperial *METHA CORPUS · CLINIC* e chancela médica (*Leitura Corporal & Medicina Integrativa — Dr. Mateus Camargos · CRM-MG 88.462*).
+  - Safe zone centralizada para perfeita compatibilidade com o formato retangular e com o recorte quadrado (1:1) do WhatsApp.
+- **Favicons Vetoriais e Multi-resolução de Alta Definição:**
+  - `favicon.svg` e `assets/favicon.svg`: Geometria do monograma com preenchimento áureo translúcido e traçado reforçado (`2.6px`) com filtro de brilho, garantindo máxima legibilidade em abas claras ou escuras.
+  - `assets/apple-touch-icon.png`: Ícone no padrão iOS de 180 × 180 px com cantos arredondados e borda áurea.
+  - `assets/favicon-32x32.png` e `assets/favicon-16x16.png`: Renderizados com antialiasing subpixel por amostragem Lanczos, eliminando pixels borrados.
+  - `favicon.ico` e `assets/favicon.ico`: Formato multi-camadas (16, 32 e 48 px).
+- **Verificação Técnica e Deploy:**
+  - Validador DOM/HTML: zero tags órfãs em `index.html`, `proposta.html` e `proposta-light.html`.
+  - Push realizado na branch `main` e publicado via GitHub Pages.
+
+
 
 
